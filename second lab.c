@@ -3,8 +3,8 @@
 int main()
 {
    int a, b, sum;
-    a=50;
-    b=60;
+    a=60;
+    b=90;
 
     sam= a+ b;
     print("sum is %d", sum);
